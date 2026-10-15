@@ -11,6 +11,9 @@ optional features: platform color gradient (Task 2), moving platform oscillation
 and coin collection sparkle/effects (Task 4). LLM prompt history is in
 `PES2UG24CS474_Prompts.docx`.
 
+Gameplay videos are in `videos/` — `before_fix.mp4` (bug/broken behaviour)
+and `after_fix.mp4` (fixed bug + new features working).
+
 Run with `pip install pygame` then `python game.py`.
 
 ---
