@@ -11,3 +11,4 @@ SEC:H
 - [LAB3](LAB3) — Architecture (Group Travel Expense Simplification Engine)
 - [LAB4](LAB4) — (to be added)
 - [LAB5](LAB5) — Static Code Analysis (Pylint, Bandit, Flake8)
+- [LAB6](LAB6) — Code and Branch Coverage Analysis (coverage, pytest)
